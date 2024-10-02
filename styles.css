@@ -1,0 +1,6 @@
+body {background-color: #0D1018;}
+#wawa1 {height: 50px; width: 100%; background-color: #6CC283; outline: groove 3px #C70003; color: darkred; font-size: 35px}
+#wawa2 {height: 5cm; width: 100%; background-color: #2996A2; outline: dashed 3px #F5C91E}
+.loeb {height: 3cm; width: 200px; background-color: aquamarine; float: right; border: solid 1px #FFFFFF; color: #FF8AD4; font-size: 27px; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+#blink {height: 3cm; width: 200px}
+#yapfillertext {height: 500px; width:80%; background-color: #2CB196; margin-left: 10%; margin-top: 40px; border: dotted 10px #F39BA3}
